@@ -1,0 +1,2 @@
+# vennuzinteligence
+design socialmedia IA
